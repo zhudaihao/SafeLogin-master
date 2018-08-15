@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Wed Aug 15 14:08:57 CST 2018
+1.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+4.set=ANDROID_RESOURCE
+2.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_isv_demo.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_login.xml
+4.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_

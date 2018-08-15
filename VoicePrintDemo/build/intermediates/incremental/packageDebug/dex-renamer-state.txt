@@ -1,0 +1,7 @@
+#Wed Aug 15 14:08:59 CST 2018
+base.0=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9119ae28168b1092e83cc1c04356f2bf8c61046b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de52193437d7d94246e6dc149f8240c3bdd01b03\\classes.dex
+base.1=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de52193437d7d94246e6dc149f8240c3bdd01b03
+file.0=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9119ae28168b1092e83cc1c04356f2bf8c61046b\\classes.dex

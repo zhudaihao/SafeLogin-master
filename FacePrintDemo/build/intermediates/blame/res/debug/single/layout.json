@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_offline_demo.xml",
+        "source": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\src\\main\\res\\layout\\activity_offline_demo.xml"
+    },
+    {
+        "merged": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_video_demo.xml",
+        "source": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\src\\main\\res\\layout\\activity_video_demo.xml"
+    },
+    {
+        "merged": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_online_demo.xml",
+        "source": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\src\\main\\res\\layout\\activity_online_demo.xml"
+    },
+    {
+        "merged": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\github\\SafeLogin-master\\SafeLogin-master\\FacePrintDemo\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

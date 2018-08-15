@@ -1,0 +1,4 @@
+#Wed Aug 15 14:08:58 CST 2018
+base.0=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex

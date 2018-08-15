@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    android:orientation="vertical">
+
+    <com.ks.safe.login.view.WaveDynamicAppBar
+        android:id="@+id/vappbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:waveColor="@color/light_blue"
+        app:waveHeight="10dp"
+        app:waveSpeed1="7dp"
+        app:waveSpeed2="5dp">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/third_activity_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize" />
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tab_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_scrollFlags="scroll|enterAlways"
+            app:tabIndicatorColor="#ff0"
+            app:tabSelectedTextColor="#000"
+            app:tabTextColor="#f00" />
+
+    </com.ks.safe.login.view.WaveDynamicAppBar>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginTop="20dp"
+                android:background="@android:color/white"
+                android:divider="@drawable/line"
+                android:dividerPadding="10dp"
+                android:orientation="vertical"
+                android:padding="10dp"
+                android:showDividers="middle">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="指纹" />
+
+                    <Switch
+                        android:id="@+id/vfinger"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="刷脸" />
+                    <!--android:switchMinWidth="44dp"：track使用的是宽度为48dp的圆角方形，此处值不大于48dp都可以-->
+                    <!--android:thumbTextPadding="16dp":thumb使用的的半径为16dp的圆-->
+                    <!--这里我们不需要thumb显示文字-->
+                    <Switch
+                        android:id="@+id/vface"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="声纹" />
+
+                    <Switch
+                        android:id="@+id/vvoice"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="手势" />
+
+                    <Switch
+                        android:id="@+id/vgensture"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="自定义整体绘制" />
+
+                    <Switch
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:thumb="@drawable/switch_thumb"
+                        android:track="@drawable/switch_track" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="原生分别绘制" />
+                    <!--android:switchMinWidth="44dp"：track使用的是宽度为48dp的圆角方形，此处值不大于48dp都可以-->
+                    <!--android:thumbTextPadding="16dp":thumb使用的的半径为16dp的圆-->
+                    <!--这里我们不需要thumb显示文字-->
+                    <Switch
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:thumb="@drawable/thumb"
+                        android:track="@drawable/track" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="计算合拍率" />
+
+                    <ImageView
+                        android:id="@+id/hepai"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@android:drawable/ic_menu_more" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="中华人民共和国" />
+
+                    <TextView
+                        android:id="@+id/full"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+
+                    <TextView
+                        android:id="@+id/letter"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="人脸比对" />
+                    <!--android:switchMinWidth="44dp"：track使用的是宽度为48dp的圆角方形，此处值不大于48dp都可以-->
+                    <!--android:thumbTextPadding="16dp":thumb使用的的半径为16dp的圆-->
+                    <!--这里我们不需要thumb显示文字-->
+                    <Switch
+                        android:id="@+id/vface_bd"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="10dp">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:text="setting数据库" />
+                    <!--android:switchMinWidth="44dp"：track使用的是宽度为48dp的圆角方形，此处值不大于48dp都可以-->
+                    <!--android:thumbTextPadding="16dp":thumb使用的的半径为16dp的圆-->
+                    <!--这里我们不需要thumb显示文字-->
+                    <Switch
+                        android:id="@+id/vsetting"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+
+        <com.ks.safe.login.view.RippleIntroView
+            android:id="@+id/layout_ripple"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:background="#AA000000"
+            android:clickable="true"
+            android:fitsSystemWindows="true"
+            android:visibility="gone"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="8dp">
+
+            <ImageView
+                android:id="@+id/iv_plus"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="50dp"
+                android:src="@android:drawable/ic_menu_add" />
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="100dp"
+                android:text="这么多黑科技等你来开启\n选择自己的安全方式吧"
+                android:textColor="@android:color/white"
+                android:textSize="20sp" />
+        </com.ks.safe.login.view.RippleIntroView>
+    </FrameLayout>
+</LinearLayout>

@@ -1,0 +1,25 @@
+#Wed Aug 15 14:08:58 CST 2018
+renamed.7=classes2.dex
+renamed.6=classes.dex
+renamed.5=classes5.dex
+renamed.4=classes8.dex
+renamed.3=classes3.dex
+renamed.2=classes7.dex
+renamed.1=classes6.dex
+renamed.0=classes4.dex
+base.7=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_196a577581db46fdbfa8af2aff67eb3e5955ff06
+base.6=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1806c5d2ba2999983c40962a5c4903f268b387ee
+base.5=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d5bdd0a1e75e2f5943afac6dd962a6cfc178c751
+base.4=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Msc_2e0c74dc0cbcb0ebc08833e26fd509c34b95e8ac
+base.3=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_549f1adfe5ed413c3914773d55ea0eac50043c12
+base.2=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_77bbafad21bc1ac169e6a221a15373f3eab9dd96
+base.1=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f9ffdcc08d6c8d0d858bb372cde013fd09d15f47
+base.0=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a393fce4319e693a7b2126d357420442c15260e5
+file.7=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_196a577581db46fdbfa8af2aff67eb3e5955ff06\\classes.dex
+file.6=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_1806c5d2ba2999983c40962a5c4903f268b387ee\\classes.dex
+file.5=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_d5bdd0a1e75e2f5943afac6dd962a6cfc178c751\\classes.dex
+file.4=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\Msc_2e0c74dc0cbcb0ebc08833e26fd509c34b95e8ac\\classes.dex
+file.3=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_549f1adfe5ed413c3914773d55ea0eac50043c12\\classes.dex
+file.2=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-25.3.1_77bbafad21bc1ac169e6a221a15373f3eab9dd96\\classes.dex
+file.1=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_f9ffdcc08d6c8d0d858bb372cde013fd09d15f47\\classes.dex
+file.0=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_a393fce4319e693a7b2126d357420442c15260e5\\classes.dex

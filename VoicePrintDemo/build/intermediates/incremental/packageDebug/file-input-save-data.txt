@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Aug 15 14:08:59 CST 2018
+2.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9119ae28168b1092e83cc1c04356f2bf8c61046b
+6.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de52193437d7d94246e6dc149f8240c3bdd01b03\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_login.xml
+5.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_de52193437d7d94246e6dc149f8240c3bdd01b03
+1.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main\\lib\\armeabi\\libmsc.so
+1.set=NATIVE_RESOURCE
+7.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+6.set=DEX
+0.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9119ae28168b1092e83cc1c04356f2bf8c61046b\\classes.dex
+3.set=DEX
+1.base=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\folders\\2000\\1f\\main
+4.file=D\:\\github\\SafeLogin-master\\SafeLogin-master\\VoicePrintDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_isv_demo.xml
+0.set=ANDROID_RESOURCE
